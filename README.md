@@ -33,4 +33,5 @@ Installation:
 
 4) Drag and drop the Modified-Hacking-Bar.xpi file into firefox or cyberfox browser
 
-'''
+
+```
