@@ -16,8 +16,8 @@
 ## Pre-requirement:
 * Download firefox 46.0.1 or Cyberfox
 <h3><a href="https://ftp.mozilla.org/pub/firefox/releases/46.0.1/">Goto firefox 46.0.1 download page (Click here)</a></h3>
-<h3><a href="https://mega.nz/#!eyo3lA7I!O1fCW-oe6a711uGjugPHq_7fozL9hx78Hyea7SwcRPc">Cyberfox for Windows (Click here)</a></h3>
-<h3><a href="https://mega.nz/#!C2wX1STB!qWdwbCjEtbR7TQ3Kpqt9bQhrEW9FbjXq9OlLyOS2aVc">Cyberfox for Linux (Click here)</a></h3>
+<h3><a href="https://mega.nz/#!eyo3lA7I!O1fCW-oe6a711uGjugPHq_7fozL9hx78Hyea7SwcRPc">Cyberfox for Linux (Click here)</a></h3>
+<h3><a href="https://mega.nz/#!C2wX1STB!qWdwbCjEtbR7TQ3Kpqt9bQhrEW9FbjXq9OlLyOS2aVc">Cyberfox for Windows (Click here)</a></h3>
 
 ### Setting for firefox:
 * On URL bar type about:config
