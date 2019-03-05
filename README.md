@@ -1,6 +1,6 @@
 # Modified-Hacking-Bar
 
-### This tool used or help for SQLMAP, XSS and Many more
+### This tool used or help for Manual SQL, XSS and Many more
 
 <br>
 <br>
