@@ -29,6 +29,8 @@ Installation:
 
 2) Unzip the Modified-Hacking-Bar.zip file
 
-3) Drag and drop the Modified-Hacking-Bar.xpi file into firefox or cyberfox browser
+3) Install Firefox 46.0.1 or Cyberfox browser
+
+4) Drag and drop the Modified-Hacking-Bar.xpi file into firefox or cyberfox browser
 
 '''
