@@ -16,6 +16,12 @@
 ## Pre-requirement:
 * Download firefox 46.0.1 or Cyberfox
 <h3><a href="https://ftp.mozilla.org/pub/firefox/releases/46.0.1/">Goto firefox 46.0.1 download page</a></h3>
+
+### Setting for firefox:
+* On URL bar type about:config
+* Search xpinstall.signatures.required
+* If value is TRUE then change the value to FALSE
+
 ........................................................................................................................
 
 <br>
