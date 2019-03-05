@@ -1,7 +1,0 @@
-1) Open terminal 
-
-2) Type =>
-        $ dpkg -i Cyberfox-52.9.1.en-US.linux-x86_64.deb
-        $ dpkg -i [drag and drop the file]
-
-3) Enjoy!!!
